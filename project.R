@@ -1,2 +1,2 @@
 print("Reviewing my previous lessons")
-pring("This is pushed from GitHub")
+print("This is pushed from GitHub")
